@@ -9,7 +9,7 @@
 
 2. **Naviguer dans le répertoire** :
    ```bash
-   cd GameCards
+   cd Simple_Bataille
    ```
 
 3. **Installer les dépendances** :
