@@ -9,7 +9,7 @@
 
 2. **Naviguer dans le répertoire** :
    ```bash
-   cd Simple_Bataille
+   cd simple-bataille
    ```
 
 3. **Installer les dépendances** :
